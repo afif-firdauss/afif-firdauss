@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afif Firdaus</h1>
 <h3 align="center">A passionate frontend developer from Jakarta, Indonesia</h3>
 
-- 🔭 I’m currently working on **Arya Noble**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
