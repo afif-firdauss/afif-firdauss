@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afif Firdaus</h1>
+<h1 align="center">Hi 👋, I'm Afif</h1>
 <h3 align="center">A passionate frontend developer from Jakarta, Indonesia</h3>
 
 
